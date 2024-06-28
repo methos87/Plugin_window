@@ -1,0 +1,12 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Plugin_window</Name>
+		<Assembly>c:\test\myRevitPlugin_window\Plugin_window\Plugin_window\bin\Debug\Plugin_window.dll</Assembly>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<AddInId>4F5EA748-35F5-4348-B82F-B92C9807C169</AddInId>
+		<FullClassName>Plugin_window.Application</FullClassName>
+		<VendorId>PPAG</VendorId>
+		<VendorDescription>https://pfenningerundpartner.com/</VendorDescription>
+	</AddIn>
+</RevitAddIns>
